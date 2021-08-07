@@ -10,3 +10,7 @@ or
 ```shell
 pip install selenium
 ```
+and
+```shell
+conda install -c conda-forge firefox geckodriver
+```
