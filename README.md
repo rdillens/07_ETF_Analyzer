@@ -25,6 +25,9 @@ voila etf_analyzer.ipynb
 
 ---
 ## Example
+![PYPL Daily Returns](Images/PYPL_Daily_Returns.png)
+![PYPL Cumulative Returns](Images/PYPL_Cumulative_Returns.png)
+![PYPL Daily Returns](Images/ETF_Portfolio_Cumulative_Returns.png)
 
 ---
 ## Contributors
