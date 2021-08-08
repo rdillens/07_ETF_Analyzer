@@ -14,3 +14,7 @@ and
 ```shell
 conda install -c conda-forge firefox geckodriver
 ```
+To publish this notebook as HTML use Voila:
+```shell 
+conda install -c conda-forge voila
+```
