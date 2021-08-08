@@ -3,19 +3,15 @@ Financial database and web application using SQL, Python, and Voila to analyze t
 
 ---
 ## Installation Instructions
-- ### Install Selenium to use bokeh.io image export functions
+- ### Install [Selenium](https://selenium-python.readthedocs.io/) to use [bokeh.io](https://docs.bokeh.org/en/latest/) image export functions
 ```shell
 conda install selenium
-```
-or
-```shell
-pip install selenium
 ```
 and
 ```shell
 conda install -c conda-forge firefox geckodriver
 ```
-- ### To publish this notebook as HTML use Voila:
+- ### To publish this notebook as HTML use [Voila](https://voila.readthedocs.io/en/stable/index.html):
 ```shell 
 conda install -c conda-forge voila
 ```
