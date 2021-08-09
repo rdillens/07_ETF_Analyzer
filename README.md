@@ -22,9 +22,12 @@ To run the notebook from the command line use:
 ```shell
 voila etf_analyzer.ipynb
 ```
+![Run from command line](Images/Voila_01.gif)
+![Load from localhost](Images/Voila_02.gif)
+![Explore in browser](Images/Voila_03.gif)
 
 ---
-## Example
+## Examples
 ![PYPL Daily Returns](Images/PYPL_Daily_Returns.png)
 ![PYPL Cumulative Returns](Images/PYPL_Cumulative_Returns.png)
 ![PYPL Daily Returns](Images/ETF_Portfolio_Cumulative_Returns.png)
