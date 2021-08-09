@@ -1,6 +1,8 @@
 # ETF_Analyzer
 Financial database and web application using SQL, Python, and Voila to analyze the performance of a hypothetical FinTech ETF.
 
+**The application is published [here](http://rdillens.github.io/07_ETF_Analyzer) as a github project page, try it yourself!**
+
 ---
 ## Installation Instructions
 - ### Install [Selenium](https://selenium-python.readthedocs.io/) to use [bokeh.io](https://docs.bokeh.org/en/latest/) image export functions
